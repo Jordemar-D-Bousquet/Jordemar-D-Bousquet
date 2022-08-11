@@ -3,7 +3,7 @@
 
 - :smiling_face_with_three_hearts: Apaixonado por tecnologia desde sempre
 - :man_student: Formado em Análise e Desenvolvimento de Sistemas
-- :dart: Web Full Stack em Formação
+- :dart: Desenvolvedor Web Full Stack em Formação
 <div align="center">
   <a href="https://github.com/Jordemar-D-Bousquet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jordemar-D-Bousquet&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
